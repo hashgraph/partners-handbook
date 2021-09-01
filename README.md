@@ -8,7 +8,7 @@ Build ecosystem tools and solutions that integrate with Hedera or offer consulta
 
 This handbook offers information and resources to ensure all Hedera partners bring value to customers and grow their business.
 
-To join the Hedera partner program, fill out this [form](https://hedera.com/partnerships). The Hedera partnerships team will reach out to schedule onboarding
+To join the Hedera partner program, fill out this <a href="https://hedera.com/partnerships" target="_blank">form</a>. The Hedera partnerships team will reach out to schedule onboarding
 and enablement meetings with you and your team.
 
 ## Decentralization memorandum
@@ -70,23 +70,23 @@ Here's a quick list of resources to get started with Hedera:
 
 ### General information:
 
-- [What is Hedera?](https://hedera.com/learning/what-is-hedera-hashgraph)
-- [Learn about Hedera mission and values](https://hedera.com/about)
-- [How it works](https://hedera.com/how-it-works)
-- [Hashgraph Consensus Algorithm](https://docs.hedera.com/guides/core-concepts/hashgraph-consensus-algorithms)
-- [Hedera Services](https://hedera.com/services)
-- [Ecosystem Overview](https://hedera.com/blog/hedera-token-service-hts-live-on-mainnet-with-over-60-initial-ecosystem-partners)
-- [Hedera Wallets](https://hedera.com/buying-guide)
-- [Hedera Roadmap](https://hedera.com/roadmap)
-- Explore our [Github](https://github.com/hashgraph)
+- <a href="https://hedera.com/learning/what-is-hedera-hashgraph" target="_blank">What is Hedera?</a>
+- <a href="https://hedera.com/about" target="_blank" target="_blank">Learn about Hedera mission and values</a>
+- <a href="https://hedera.com/how-it-works" target="_blank">How it works</a>
+- <a href="https://docs.hedera.com/guides/core-concepts/hashgraph-consensus-algorithms" target="_blank">Hashgraph Consensus Algorithm</a>
+- <a href="https://hedera.com/services" target="_blank">Hedera Services</a>
+- <a href="https://hedera.com/blog/hedera-token-service-hts-live-on-mainnet-with-over-60-initial-ecosystem-partners" target="_blank">Ecosystem Overview</a>
+- <a href="https://hedera.com/buying-guide" target="_blank">Hedera Wallets</a>
+- <a href="https://hedera.com/roadmap" target="_blank">Hedera Roadmap</a>
+- Explore our <a href="https://github.com/hashgraph" target="_blank">Github</a>
 
 ### Documentation, tutorials, and demos:
 
-- Create [testnet accounts](https://portal.hedera.com/register) for you and your team
-- Follow the [Introduction tutorial](https://docs.hedera.com/guides/getting-started/introduction)
-- Learn more about Hedera [Testnets](https://docs.hedera.com/guides/testnet), [Mainnet](https://docs.hedera.com/guides/mainnet) and [Mirrornet](https://docs.hedera.com/guides/mirrornet)
-- See Hedera in practice in our [Demo Applications](https://docs.hedera.com/guides/resources/demo-applications)
-- Go through more advanced [tutorials](https://docs.hedera.com/guides/resources/tutorials) to further develop your capabilities or check out our [starter projects](https://docs.hedera.com/guides/resources/starter-projects) to start building your Hedera-based solution
+- Create <a href="https://portal.hedera.com/register" target="_blank">testnet accounts</a> for you and your team
+- Follow the <a href="https://docs.hedera.com/guides/getting-started/introduction" target="_blank">Introduction tutorial</a>
+- Learn more about Hedera <a href="https://docs.hedera.com/guides/testnet" target="_blank">Testnets</a>, <a href="https://docs.hedera.com/guides/mainnet" target="_blank">Mainnet</a> and <a href="https://docs.hedera.com/guides/mirrornet" target="_blank">Mirrornet</a>
+- See Hedera in practice in our <a href="https://docs.hedera.com/guides/resources/demo-applications" target="_blank">Demo Applications</a>
+- Go through more advanced <a href="https://docs.hedera.com/guides/resources/tutorials" target="_blank">tutorials</a> to further develop your capabilities or check out our <a href="https://docs.hedera.com/guides/resources/starter-projects" target="_blank">starter projects</a> to start building your Hedera-based solution
 
 ## Step 2: Onboarding call with your Developer Advocate and Business Development representatives
 
@@ -94,24 +94,24 @@ Schedule a time that works for you and your team - we would love to get to know 
 
 ## Step 3: Technical enablement and support channels
 
-- Sign up for [YouTube](https://www.youtube.com/channel/UCIhE4NYpaX9E9SssFnwrjww) and [Twitter](https://twitter.com/hedera) updates
-- Join our [Discord server](https://discord.com/invite/yKSnaMk7Px)
-- Missing a feature or have some product feedback? Learn about [Hedera Improvement Proposals](https://github.com/hashgraph/hedera-improvement-proposal/) process
+- Sign up for <a href="https://www.youtube.com/channel/UCIhE4NYpaX9E9SssFnwrjww" target="_blank">YouTube</a> and <a href="https://twitter.com/hedera" target="_blank">Twitter</a> updates
+- Join our <a href="https://discord.com/invite/yKSnaMk7Px" target="_blank">Discord server</a>
+- Missing a feature or have some product feedback? Learn about <a href="https://github.com/hashgraph/hedera-improvement-proposal/" target="_blank">Hedera Improvement Proposals</a> process
 - For any other questions - reach out at partners@hedera.com
 
 ## Advancing your Hedera development capabilities
 
-- Hedera Consensus Service (HCS) for data integrity use cases, such as supply chain,
-  - [Documentation: Hedera SDK](https://docs.hedera.com/guides/docs/sdks/consensus)
+- Hedera Consensus Service (HCS)
+  - <a href="https://docs.hedera.com/guides/docs/sdks/consensus" target="_blank">Documentation: Hedera SDK</a>
 - Hedera Token Service (HTS)
-  - [Documentation: Hedera SDK](https://docs.hedera.com/guides/docs/sdks/tokens)
-  - [Tutorial: Integrating a HTS Token](https://docs.hedera.com/guides/docs/integrating-a-hedera-token-service-token) tutorial
-  - [Demo: One-click HTS Demo](https://gitpod.io/#https://github.com/hashgraph/hedera-hts-demo)
+  - <a href="https://docs.hedera.com/guides/docs/sdks/tokens" target="_blank">Documentation: Hedera SDK</a>
+  - <a href="https://docs.hedera.com/guides/docs/integrating-a-hedera-token-service-token" target="_blank">Integrating a HTS Token tutorial</a>
+  - <a href="https://gitpod.io/#https://github.com/hashgraph/hedera-hts-demo" target="_blank">One-click HTS Demo</a>
 - Hedera File Service (HFS)
-  - [Documentation: Hedera SDK](https://docs.hedera.com/guides/docs/sdks/file-storage)
+  - <a href="https://docs.hedera.com/guides/docs/sdks/file-storage" target="_blank">Documentation: Hedera SDK</a>
 - Mirror Nodes
-  - [Documentation](https://docs.hedera.com/guides/mirrornet/hedera-mirror-node)
-  - [Community Mirror Nodes](https://docs.hedera.com/guides/mirrornet/community-mirror-nodes)
+  - <a href="https://docs.hedera.com/guides/mirrornet/hedera-mirror-node" target="_blank">Documentation</a>
+  - <a href="https://docs.hedera.com/guides/mirrornet/community-mirror-nodes" target="_blank">Community Mirror Nodes</a>
 
 ## Advancing your Hedera sales capabilities
 
@@ -164,21 +164,21 @@ Repo with presentations/sales materials for Hedera and its services
 ### Fee estimator tool
 
 Hedera's fee schedule is set by the Hedera Governing Council and always based in US Dollars,
-paid in HBAR - this makes it easy to estimate the cost of API calls. Use the [Transaction Fee Estimator](https://hedera.com/fees)
+paid in HBAR - this makes it easy to estimate the cost of API calls. Use the <a href="https://hedera.com/fees" target="_blank">Transaction Fee Estimator</a>
 to set your parameters and estimate the cost of transactions on the Hedera network.
 
 ## Stay up-to-date
 
-- Join our [Developer Discord](https://hedera.com/discord) to engage with the developer community and Hedera engineering
-- Attend our monthly [Virtual Meetup](https://www.meetup.com/Hedera-Hashgraph-Virtual-Meetup/) and [Engineering Insights](https://hedera.com/events) webinar
-- Read the [Hedera Blog](https://hedera.com/blog)
-- Watch presentations and product announcements on the [Hedera YouTube Channel](https://www.youtube.com/channel/UCIhE4NYpaX9E9SssFnwrjww)
-- Follow us [@Hedera](https://twitter.com/hedera)
+- Join our <a href="https://hedera.com/discord" target="_blank">Developer Discord</a> to engage with the developer community and Hedera engineering
+- Attend our monthly <a href="https://www.meetup.com/Hedera-Hashgraph-Virtual-Meetup/" target="_blank">Virtual Meetup</a> and <a href="https://hedera.com/events" target="_blank">Engineering Insights</a> webinar
+- Read the <a href="https://hedera.com/blog" target="_blank">Hedera Blog</a>
+- Watch presentations and product announcements on the <a href="https://www.youtube.com/channel/UCIhE4NYpaX9E9SssFnwrjww" target="_blank">Hedera YouTube Channel</a>
+- Follow us on Twitter <a href="https://twitter.com/hedera" target="_blank">@Hedera</a>
 - Marketing support: Hedera is here to help promote your completed projects. Ask one of our DAs about how to get your success highlighted in Hedera ecosystem!
 
 ## Marketing
 
-- [Brand Guidelines](https://docs.hedera.com/guides/support-and-community/brand-guidelines)
+- <a href="https://docs.hedera.com/guides/support-and-community/brand-guidelines" target="_blank">Brand Guidelines</a>
 
 ## Contribution
 
