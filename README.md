@@ -183,3 +183,7 @@ to set your parameters and estimate the cost of transactions on the Hedera netwo
 ## Contribution
 
 Please help us make this guide better! If you see some improvements or additional information that should be published in this handbook - please create a new issue and/or create a new PR.
+
+# License
+
+[Apache License 2.0](https://github.com/hashgraph/partners-handbook/blob/main/LICENSE)
